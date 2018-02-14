@@ -130,7 +130,6 @@ a.menu:hover {
 
 @media only screen and (max-width: 1024px) {
 	body{
-		background:limegreen;
 	}
 	.copy, .h2 {
 		width:50%;
@@ -159,7 +158,6 @@ a.menu:hover {
 }
 @media only screen and (max-width:768px) {
 		body{
-		background:cyan;
 	}
 	.copy, .h2 {
 		width:50%;
